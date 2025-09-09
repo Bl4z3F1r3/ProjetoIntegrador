@@ -1,4 +1,4 @@
-# ProjetoIntegrador
+# Projeto Integrador
 Repositório referente ao projeto integrador 
 
 
